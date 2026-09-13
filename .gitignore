@@ -1,0 +1,11 @@
+log.txt
+.env
+.env.local
+.venv/
+__pycache__/
+*.pyc
+code/cache/
+code/data_layer/
+code1/
+code.zip
+
